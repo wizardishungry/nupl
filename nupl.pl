@@ -402,3 +402,4 @@ if ($plans_changed == 1) {
     }
 }
 
+unlink ".tmp_nuplist";
